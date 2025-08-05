@@ -16,7 +16,7 @@ The aim was to uncover key business insights from the raw data using Excel’s b
   * Identify top-performing and underperforming product segments.
   * Track monthly sales trends and seasonality.
   * Compare category vs sub-category profit performance.
-* Applied **Excel formulas** (e.g., `SUMIFS`, `IF`, `VLOOKUP`, `RANK`, etc.) for data aggregation and logic.
+* Applied **Excel formulas** (e.g., `SUMIFS`, `IF`, `XLOOKUP`, `RANK`, etc.) for data aggregation and logic.
 * Created interactive **dashboards** using slicers and conditional formatting to enhance usability and visual appeal.
 * Answered key business questions through structured analysis and visual summaries.
 
